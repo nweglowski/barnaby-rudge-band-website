@@ -1,6 +1,6 @@
 ---
-title: Original Hard Rock from Pittsburgh
-subtitle: 
+title: BARNABY RUDGE
+subtitle: Original Hard Rock from Pittsburgh
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
