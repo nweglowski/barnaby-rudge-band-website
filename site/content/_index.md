@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Original Hard Rock from Pittsburgh
+subtitle: 
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
